@@ -482,7 +482,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 btn = [[
                     InlineKeyboardButton(f"HELP 🆘",url='https://t.me/FPGetFiles/472')
                     ],[
-                    InlineKeyboardButton("⚠️ Movie കിട്ടിയില്ലെ❓ ഇവിടെ  Click ⚠️", url ='https://t.me/+DYQ5vHe_vIc3OGQ1')
+                    InlineKeyboardButton("⚠️ Movie കിട്ടിയില്ലെ❓ ഇവിടെ  Click ⚠️", url ='https://t.me/+guEyMRzRVq8wOGM9')
                     ],[
                     InlineKeyboardButton("📥Download📥", url =f"{send_file.link}")
                 ]]
