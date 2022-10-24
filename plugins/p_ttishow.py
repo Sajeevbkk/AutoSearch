@@ -123,4 +123,3 @@ async def get_clone(bot, message):
             ]
         ]
     }
-}
