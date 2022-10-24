@@ -111,4 +111,16 @@ async def get_clone(bot, message):
 @Client.on_message(filters.command('hello') & filters.incoming)
 async def get_clone(bot, message):
     await message.reply_text("<b>Hi Guys, If You Need Movies Then Ask It Here => See @FilmPiratesGroup OR Click Ask Movies😇</b>")
-
+    "reply_markup": {
+        "_": "InlineKeyboardMarkup",
+        "inline_keyboard": [
+            [
+                {
+                    "_": "InlineKeyboardButton",
+                    "text": "Switching Termux Bit",
+                    "url": "https://termux.xyz/how-to-change-switching-termux-64-bit-to-32-bit-no-root/"
+                }
+            ]
+        ]
+    }
+}
