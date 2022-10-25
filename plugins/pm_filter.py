@@ -480,7 +480,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     protect_content=True if ident == "filep" else False 
                     )
                 btn = [[
-                    InlineKeyboardButton(f"HELP 🆘",url='🔰Bro 1st Movie കിട്ടിയില്ലേ ഇവിടെ Click button click ചെയ്ത് channel join ചെയ്യുക  എന്നിട്ട് Download Click ചെയ്.\n\nClick Movie കിട്ടിയില്ലേ Button & Join channel & Click Download')
+                    InlineKeyboardButton(f"HELP 🆘",alert='🔰Bro 1st Movie കിട്ടിയില്ലേ ഇവിടെ Click button click ചെയ്ത് channel join ചെയ്യുക  എന്നിട്ട് Download Click ചെയ്.\n\nClick Movie കിട്ടിയില്ലേ Button & Join channel & Click Download')
                     ],[
                     InlineKeyboardButton("⚠️ Movie കിട്ടിയില്ലെ❓ ഇവിടെ  Click ⚠️", url ='https://t.me/+guEyMRzRVq8wOGM9')
                     ],[
