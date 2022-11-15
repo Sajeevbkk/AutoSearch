@@ -229,15 +229,15 @@ async def advantage_spoll_choker(bot, query):
             [
                 [
                     InlineKeyboardButton(
-                        text="➕ Get Latest Movies ➕", url=f"http://t.me/FilmPirateOfficial"
+                        text="➕ 𝐆𝐄𝐓 𝐋𝐀𝐓𝐄𝐒𝐓 𝐌𝐎𝐕𝐈𝐄𝐒 ➕", url=f"http://t.me/FilmPirateOfficial"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        text="Bot Updates", url=f"https://t.me/AdvBotUpdates"
+                        text="🆘 𝐆𝐈𝐕𝐄 𝐑𝐄𝐏𝐎𝐑𝐓 🆘", url=f"https://t.me/+rqNM8NSYqt0xNzE9"
                     ),
                     InlineKeyboardButton(
-                        text="🐠Google🐠", url=f"https://www.google.com/"
+                        text="🐠 𝐆𝐎𝐎𝐆𝐋𝐄 🐠", url=f"https://www.google.com/"
                     )
                 ],
             ]
